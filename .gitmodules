@@ -1,0 +1,6 @@
+[submodule "messanger-app"]
+	path = messanger-app
+	url = https://github.com/alirhz/messanger-app.git
+[submodule "messanger-backend"]
+	path = messanger-backend
+	url = https://github.com/alirhz/messanger-backend.git
